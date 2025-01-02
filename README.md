@@ -26,7 +26,7 @@
   <a href="https://velog.io/@mikao/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/aigurexx1/?next=%2Fmikao_717%2F">
+  <a href="https://www.instagram.com/9_.158g">
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
