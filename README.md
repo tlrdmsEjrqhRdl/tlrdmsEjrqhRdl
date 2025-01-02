@@ -6,7 +6,7 @@
 광주소프트웨어마이스터고 8기 프론트엔드 개발자입니다.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=vue" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tlrdmsEjrqhRdl&show_icons=true&theme=vue" alt="GitHub stats" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
