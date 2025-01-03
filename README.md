@@ -23,7 +23,7 @@
 
 <h3 align="center">🍀 Contact 🍀</h3>
 <div align="center">
-  <a href="(https://velog.io/@jungeon/posts)">
+  <a href="https://velog.io/@jungeon/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/9_.158g">
